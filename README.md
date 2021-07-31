@@ -87,8 +87,7 @@
 
 <p align="center">
     <a href="https://ocaml.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ocaml.svg" alt="ocaml" width="40" height="40"/> </a>
-
-    <a href="https://golang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" alt="golang" width="40" height="40"/> </a>
+    <a href="https://golang.org/" target="_blank"> <img src="img/" alt="golang" width="40" height="40"/> </a>
 </p>
 
 <h1 align="center"></h1>
